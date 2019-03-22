@@ -1,0 +1,215 @@
+Family,Genus,Species,Included,Genome,Tr.level,Tr.primary,Tr.direct.contact,Tr.faecal.oral,Tr.food.borne,Tr.respiratory,Tr.vector,Tr.vertical,Tr.multiple,Virulence,Sev.strain,Rank,Fatal.vuln,Fatal.health,Tp.primary,Tp.cardiac,Tp.circulatory,Tp.endocrine,Tp.gastrointestinal,Tp.hepatic,Tp.joints,Tp.muscular,Tp.neural,Tp.renal,Tp.reproductive,Tp.respiratory,Tp.sensory,Tp.skin,Tp.vascular,Tp.multiple,Host.range,Host.human.only,Host.nh.primates,Host.other.mammal,Host.bird,CaseF,QualF,SeroF
+Arenaviridae,Mammarenavirus,Chapare mammarenavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,broad,0,0,1,0,Y,N,N
+Arenaviridae,Mammarenavirus,Guanarito mammarenavirus,1,(-)ssRNA,3,respiratory,1,0,0,1,0,0,1,severe,SA,1,1,1,systemic,0,0,1,0,1,0,0,1,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Arenaviridae,Mammarenavirus,Junín mammarenavirus,1,(-)ssRNA,3,respiratory,1,0,0,1,0,0,1,severe,SA,1,1,1,systemic,0,0,1,1,1,0,0,1,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Arenaviridae,Mammarenavirus,Lassa mammarenavirus,1,(-)ssRNA,3,respiratory,1,0,0,1,0,1,1,severe,SA,1,1,1,systemic,0,0,1,1,1,0,0,1,1,0,1,1,0,1,1,broad,0,0,1,0,N,N,N
+Arenaviridae,Mammarenavirus,Lujo mammarenavirus,1,(-)ssRNA,3,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,systemic,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,broad,0,0,1,0,Y,N,N
+Arenaviridae,Mammarenavirus,Lymphocytic choriomeningitis mammarenavirus,1,(-)ssRNA,3,respiratory,1,0,0,1,0,1,1,nonsevere,N,2,1,1,neural,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,broad,0,1,1,0,N,N,N
+Arenaviridae,Mammarenavirus,Machupo mammarenavirus,1,(-)ssRNA,3,respiratory,1,0,0,1,0,0,1,severe,SA,1,1,1,systemic,0,0,1,0,1,0,0,1,1,0,1,0,0,1,1,broad,0,0,1,0,N,N,N
+Arenaviridae,Mammarenavirus,Mobala mammarenavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Arenaviridae,Mammarenavirus,Pichindé mammarenavirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,systemic,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,broad,0,0,1,0,N,Y,Y
+Arenaviridae,Mammarenavirus,Sabiá mammarenavirus,1,(-)ssRNA,3,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,broad,0,0,1,0,Y,Y,N
+Arenaviridae,Mammarenavirus,Whitewater Arroyo mammarenavirus,1,(-)ssRNA,2,respiratory,1,0,0,1,0,0,1,severe,SA,1,1,1,systemic,0,0,1,0,1,0,0,1,1,0,1,0,0,1,1,broad,0,0,1,0,Y,N,N
+Astroviridae,Mamastrovirus,Mamastrovirus 1,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,4,1,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Astroviridae,Mamastrovirus,Mamastrovirus 6,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Astroviridae,Mamastrovirus,Mamastrovirus 8,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,5,1,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Astroviridae,Mamastrovirus,Mamastrovirus 9,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Bornaviridae,Bornavirus,Mammalian 1 bornavirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Bornaviridae,Bornavirus,Mammalian 2 bornavirus ,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Caliciviridae,Norovirus,Norwalk virus ,1,(+)ssRNA,4,faecal-oral,1,1,1,0,0,0,1,nonsevere,N,4,1,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Caliciviridae,Sapovirus,Sapporo virus,1,(+)ssRNA,4,faecal-oral,0,1,1,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Caliciviridae,Vesivirus,Vesicular exanthema of swine virus,1,(+)ssRNA,2,direct contact,1,1,0,0,0,0,1,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,broad,0,0,1,0,N,Y,N
+Coronaviridae,Alphacoronavirus,Alphacoronavirus 1,1,(+)ssRNA,2,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Coronaviridae,Alphacoronavirus,Human coronavirus 229E ,1,(+)ssRNA,4,respiratory,0,0,0,1,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,narrow,1,0,0,0,N,N,N
+Coronaviridae,Alphacoronavirus,Human coronavirus NL63,1,(+)ssRNA,4,respiratory,0,0,0,1,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Coronaviridae,Betacoronavirus,Betacoronavirus 1,1,(+)ssRNA,4,respiratory,0,0,0,1,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Coronaviridae,Betacoronavirus,Human coronavirus HKU1,1,(+)ssRNA,4,respiratory,0,0,0,1,0,0,0,nonsevere,N,6,0,0,respiratory,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,narrow,1,0,0,0,N,N,N
+Coronaviridae,Betacoronavirus,Middle East respiratory syndrome-related coronavirus,1,(+)ssRNA,3,respiratory,1,0,0,1,0,0,1,severe,SA,1,1,1,respiratory,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,broad,0,0,1,0,N,N,N
+Coronaviridae,Betacoronavirus,Severe acute respiratory syndrome-related coronavirus,1,(+)ssRNA,4,direct contact,1,0,0,1,0,0,1,severe,SA,1,1,1,respiratory,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Coronaviridae,Torovirus,Human torovirus,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Filoviridae,Ebolavirus,Bundibugyo ebolavirus,1,(-)ssRNA,3,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,systemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Filoviridae,Ebolavirus,Reston ebolavirus ,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Filoviridae,Ebolavirus,Sudan ebolavirus ,1,(-)ssRNA,3,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,systemic,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,broad,0,1,1,0,N,N,N
+Filoviridae,Ebolavirus,Tai forest ebolavirus,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,0,0,systemic,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,broad,0,1,1,0,Y,N,N
+Filoviridae,Ebolavirus,Zaire ebolavirus,1,(-)ssRNA,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,systemic,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,broad,0,1,1,0,N,N,N
+Filoviridae,Marburgvirus,Marburg marburgvirus,1,(-)ssRNA,3,direct contact,1,0,0,1,0,1,1,severe,SA,1,1,1,systemic,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,broad,0,1,1,0,N,N,N
+Flaviviridae,Flavivirus,Aroa virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Flaviviridae,Flavivirus,Bagaza virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,0,1,Y,Y,Y
+Flaviviridae,Flavivirus,Banzi virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Flaviviridae,Flavivirus,Cacipacore virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,N
+Flaviviridae,Flavivirus,Dengue virus ,1,(+)ssRNA,4,vector,0,0,0,0,1,1,0,nonsevere,N,2,1,1,systemic,0,0,0,0,1,0,0,1,1,0,1,0,1,1,1,narrow,0,1,0,0,N,N,N
+Flaviviridae,Flavivirus,Edge Hill virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Flaviviridae,Flavivirus,Gadgets Gully virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,0,1,Y,Y,Y
+Flaviviridae,Flavivirus,Ilheus virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Flaviviridae,Flavivirus,Japanese encephalitis virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,1,0,severe,SA,1,1,1,neural,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,broad,0,1,1,1,N,N,N
+Flaviviridae,Flavivirus,Kokobera virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,Y
+Flaviviridae,Flavivirus,Kyasanur forest disease virus ,1,(+)ssRNA,2,vector,1,0,0,0,1,0,1,severe,SA,1,1,1,viraemic,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,broad,0,1,1,0,N,N,N
+Flaviviridae,Flavivirus,Langat virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Flaviviridae,Flavivirus,Louping ill virus ,1,(+)ssRNA,2,direct contact,1,0,0,0,1,0,1,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,broad,0,0,1,1,N,N,N
+Flaviviridae,Flavivirus,Murray Valley encephalitis virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Flaviviridae,Flavivirus,Ntaya virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,Y
+Flaviviridae,Flavivirus,Omsk hemorrhagic fever virus ,1,(+)ssRNA,2,direct contact,1,0,0,1,1,0,1,nonsevere,N,2,1,1,vascular,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,broad,0,0,1,0,N,N,N
+Flaviviridae,Flavivirus,Powassan virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,0,neural,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,broad,0,0,1,1,N,N,N
+Flaviviridae,Flavivirus,Rio Bravo virus ,1,(+)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,Y
+Flaviviridae,Flavivirus,St. Louis encephalitis virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,neural,0,0,0,0,1,0,0,1,1,0,1,1,0,1,1,broad,0,1,1,1,N,N,N
+Flaviviridae,Flavivirus,Tembusu virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,0,1,N,Y,N
+Flaviviridae,Flavivirus,Tick-borne encephalitis virus ,1,(+)ssRNA,2,vector,1,1,1,0,1,0,1,severe,SA,1,1,1,neural,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,broad,0,1,1,1,N,N,N
+Flaviviridae,Flavivirus,Uganda S virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Flaviviridae,Flavivirus,Usutu virus,1,(+)ssRNA,3,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Flaviviridae,Flavivirus,Wesselsbron virus ,1,(+)ssRNA,2,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Flaviviridae,Flavivirus,West Nile virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,1,0,nonsevere,N,2,1,1,neural,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,broad,0,1,1,1,N,N,N
+Flaviviridae,Flavivirus,Yellow fever virus ,1,(+)ssRNA,4,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,systemic,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,broad,0,1,1,0,N,N,N
+Flaviviridae,Flavivirus,Zika virus ,1,(+)ssRNA,4,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Flaviviridae,Hepacivirus,Hepacivirus C,1,(+)ssRNA,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,hepatic,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,narrow,1,0,0,0,N,N,N
+Flaviviridae,Pegivirus,Pegivirus A,1,(+)ssRNA,4,direct contact,1,0,0,0,0,1,0,nonsevere,N,6,0,0,circulatory,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Flaviviridae,Pestivirus,Bovine viral diarrhea virus 1,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,N
+Hantaviridae,Orthohantavirus,Andes orthohantavirus,1,(-)ssRNA,3,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,1,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Bayou orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,0,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,broad,0,0,1,0,Y,N,N
+Hantaviridae,Orthohantavirus,Black creek canal orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,0,0,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,broad,0,0,1,0,Y,N,N
+Hantaviridae,Orthohantavirus,Choclo orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Dobrava-Belgrade orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,vascular,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Hantaan orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,vascular,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Laguna Negra orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Puumala orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,nonsevere,N,2,1,1,vascular,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Sangassou orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Hantaviridae,Orthohantavirus,Seoul orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,nonsevere,N,2,1,1,vascular,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Sin Nombre orthohantavirus ,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,1,1,systemic,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Hantaviridae,Orthohantavirus,Thailand orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,nonsevere,N,6,0,0,vascular,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,Y,Y,Y
+Hantaviridae,Orthohantavirus,Thottapalayam orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,severe,SA,1,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Hantaviridae,Orthohantavirus,Tula orthohantavirus,1,(-)ssRNA,2,respiratory,0,0,0,1,0,0,0,nonsevere,N,6,0,0,vascular,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,broad,0,0,1,0,N,Y,N
+Hepeviridae,Orthohepevirus,Orthohepevirus A,1,(+)ssRNA,4,faecal-oral,1,1,1,0,0,1,1,nonsevere,N,2,1,1,hepatic,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,broad,0,1,1,1,N,N,N
+Nairoviridae,Orthonairovirus,Crimean-Congo haemorrhagic fever orthonairovirus ,1,(-)ssRNA,3,vector,1,0,0,0,1,0,1,severe,SA,1,1,1,systemic,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,broad,0,0,1,1,N,N,N
+Nairoviridae,Orthonairovirus,Dugbe orthonairovirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,Y,N,N
+Nairoviridae,Orthonairovirus,Thiafora orthonairovirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,N
+Orthomyxoviridae,Influenzavirus A,Influenza A virus,1,(-)ssRNA,4,direct contact,1,0,0,1,0,1,1,nonsevere,Y,3,1,1,respiratory,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,broad,0,1,1,1,N,N,N
+Orthomyxoviridae,Influenzavirus B,Influenza B virus ,1,(-)ssRNA,4,direct contact,1,0,0,1,0,0,1,nonsevere,N,2,1,1,respiratory,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Orthomyxoviridae,Influenzavirus C,Influenza C virus  ,1,(-)ssRNA,4,direct contact,1,0,0,1,0,0,1,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,broad,0,0,1,0,N,N,N
+Orthomyxoviridae,Thogotovirus,Dhori virus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,Y
+Orthomyxoviridae,Thogotovirus,Thogoto virus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,4,1,0,neural,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,broad,0,0,1,0,Y,Y,N
+Paramyxoviridae,Avulavirus,Avian avulavirus 1 ,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,4,1,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,broad,0,0,0,1,N,N,N
+Paramyxoviridae,Henipavirus,Hendra henipavirus ,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,systemic,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,broad,0,0,1,0,Y,N,N
+Paramyxoviridae,Henipavirus,Nipah henipavirus ,1,(-)ssRNA,3,direct contact,1,1,1,1,0,0,1,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,broad,0,0,1,0,N,N,N
+Paramyxoviridae,Morbillivirus,Canine morbillivirus,1,(-)ssRNA,2,direct contact,1,0,0,1,0,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,Y,N
+Paramyxoviridae,Morbillivirus,Measles morbillivirus ,1,(-)ssRNA,4,direct contact,1,0,0,1,0,1,1,nonsevere,N,2,1,1,systemic,1,0,0,1,1,0,0,1,1,1,1,1,1,0,1,narrow,0,1,0,0,N,N,N
+Paramyxoviridae,Respirovirus,Human respirovirus 1 ,1,(-)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,0,1,0,0,N,N,N
+Paramyxoviridae,Respirovirus,Human respirovirus 3 ,1,(-)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,0,1,0,0,N,N,N
+Paramyxoviridae,Rubulavirus,Human rubulavirus 2 ,1,(-)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,0,1,0,0,N,N,N
+Paramyxoviridae,Rubulavirus,Human rubulavirus 4,1,(-)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,1,0,0,0,N,N,N
+Paramyxoviridae,Rubulavirus,Mammalian rubulavirus 5,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,broad,0,1,1,0,N,Y,N
+Paramyxoviridae,Rubulavirus,Mumps rubulavirus ,1,(-)ssRNA,4,direct contact,1,0,0,0,0,1,0,nonsevere,N,2,1,1,systemic,1,0,0,0,1,1,0,1,1,1,1,1,0,0,1,narrow,1,0,0,0,N,N,N
+Paramyxoviridae,Rubulavirus,Simian rubulavirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,N,Y,Y
+Paramyxoviridae,Rubulavirus,Sosuga rubulavirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,severe,SA,1,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Paramyxoviridae,Rubulavirus,Tioman rubulavirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,Y
+Peribunyaviridae,Orthobunyavirus,Bunyamwera orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,1,Y,N,N
+Peribunyaviridae,Orthobunyavirus,Bwamba orthobunyavirus ,1,(-)ssRNA,3,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,California encephalitis orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Caraparu orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Catu orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Guama orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,Y,N,Y
+Peribunyaviridae,Orthobunyavirus,Guaroa orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Kairi orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Peribunyaviridae,Orthobunyavirus,Madrid orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Peribunyaviridae,Orthobunyavirus,Marituba orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Nyando orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,N,Y,N
+Peribunyaviridae,Orthobunyavirus,Oriboca orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,Y,Y,N
+Peribunyaviridae,Orthobunyavirus,Oropouche orthobunyavirus ,1,(-)ssRNA,3,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,broad,0,1,1,0,N,N,N
+Peribunyaviridae,Orthobunyavirus,Patois orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Peribunyaviridae,Orthobunyavirus,Shuni orthobunyavirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Peribunyaviridae,Orthobunyavirus,Tacaiuma orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,Y,Y,N
+Peribunyaviridae,Orthobunyavirus,Wyeomyia orthobunyavirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Phenuiviridae,Phlebovirus,Candiru phlebovirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Phenuiviridae,Phlebovirus,Punta Toro phlebovirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Phenuiviridae,Phlebovirus,Rift Valley fever phlebovirus ,1,(-)ssRNA,3,vector,1,0,0,1,1,0,1,nonsevere,N,2,1,1,systemic,0,0,1,0,1,0,0,1,1,0,1,1,0,1,1,broad,0,0,1,0,N,N,N
+Phenuiviridae,Phlebovirus,Sandfly fever Naples phlebovirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Phenuiviridae,Phlebovirus,SFTS phlebovirus,1,(-)ssRNA,3,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Phenuiviridae,Phlebovirus,Uukuniemi phlebovirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,N,Y,Y
+Picobirnaviridae,Picobirnavirus,Human picobirnavirus ,1,dsRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Picornaviridae,Aphthovirus,Equine rhinitis A virus ,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Picornaviridae,Aphthovirus,Foot-and-mouth disease virus ,1,(+)ssRNA,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,broad,0,0,1,0,N,N,N
+Picornaviridae,Cardiovirus,Cardiovirus A,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Picornaviridae,Cardiovirus,Cardiovirus B,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,Y,3,1,1,gastrointestinal,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,broad,0,0,1,0,N,Y,N
+Picornaviridae,Cosavirus,Cosavirus A,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Cosavirus,Cosavirus B,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Cosavirus,Cosavirus D,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Cosavirus,Cosavirus E,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Cosavirus,Cosavirus F,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Enterovirus,Enterovirus A,1,(+)ssRNA,4,direct contact,1,1,0,1,0,1,1,nonsevere,Y,3,1,1,gastrointestinal,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,narrow,0,1,0,0,N,N,N
+Picornaviridae,Enterovirus,Enterovirus B,1,(+)ssRNA,4,direct contact,1,1,0,0,0,1,1,nonsevere,Y,3,1,1,gastrointestinal,1,0,0,1,1,0,0,1,0,0,1,1,1,0,1,broad,0,1,1,0,N,N,N
+Picornaviridae,Enterovirus,Enterovirus C,1,(+)ssRNA,4,direct contact,1,1,0,1,0,1,1,nonsevere,Y,3,1,1,gastrointestinal,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,narrow,0,1,0,0,N,N,N
+Picornaviridae,Enterovirus,Enterovirus D,1,(+)ssRNA,4,direct contact,1,1,0,0,0,1,1,nonsevere,Y,5,1,0,gastrointestinal,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,narrow,0,1,0,0,N,N,N
+Picornaviridae,Enterovirus,Enterovirus E,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Picornaviridae,Enterovirus,Rhinovirus A,1,(+)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Enterovirus,Rhinovirus B,1,(+)ssRNA,4,direct contact,1,0,0,1,0,0,1,nonsevere,N,6,0,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Enterovirus,Rhinovirus C,1,(+)ssRNA,4,direct contact,1,0,0,0,0,0,0,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,1,0,0,0,N,N,N
+Picornaviridae,Erbovirus,Erbovirus A,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Picornaviridae,Hepatovirus,Hepatovirus A,1,(+)ssRNA,4,faecal-oral,1,1,1,0,0,1,1,nonsevere,N,2,1,1,hepatic,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,narrow,0,1,0,0,N,Y,N
+Picornaviridae,Kobuvirus,Aichivirus A,1,(+)ssRNA,4,faecal-oral,0,1,1,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Picornaviridae,Parechovirus,Parechovirus A,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,Y,5,1,0,gastrointestinal,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,narrow,0,1,0,0,N,N,N
+Picornaviridae,Parechovirus,Parechovirus B,1,(+)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,severe,SA,1,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,Y,N
+Picornaviridae,Salivirus,Salivirus A,1,(+)ssRNA,4,faecal-oral,0,1,0,0,0,0,0,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,N,N,N
+Pneumoviridae,Metapneumovirus,Avian metapneumovirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,0,1,N,Y,Y
+Pneumoviridae,Metapneumovirus,Human metapneumovirus,1,(-)ssRNA,4,direct contact,1,0,0,1,0,0,1,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,0,1,0,0,N,N,N
+Pneumoviridae,Orthopneumovirus,Human orthopneumovirus ,1,(-)ssRNA,4,direct contact,1,0,0,1,0,0,1,nonsevere,N,4,1,0,respiratory,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,narrow,0,1,0,0,N,N,N
+Reoviridae,Coltivirus,Colorado tick fever virus ,1,dsRNA,3,vector,0,0,0,0,1,1,0,nonsevere,N,4,1,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Reoviridae,Coltivirus,Eyach virus,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Reoviridae,Orbivirus,Corriparta virus,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,Y
+Reoviridae,Orbivirus,Great Island virus ,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Reoviridae,Orbivirus,Lebombo virus ,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Reoviridae,Orbivirus,Orungo virus ,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Reoviridae,Orthoreovirus,Mammalian orthoreovirus,1,dsRNA,4,faecal-oral,0,1,0,1,0,0,1,nonsevere,N,6,0,0,systemic,1,0,0,1,1,0,1,1,0,0,1,0,0,0,1,broad,0,1,1,0,N,Y,N
+Reoviridae,Orthoreovirus,Nelson Bay orthoreovirus,1,dsRNA,3,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,respiratory,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,broad,0,0,1,0,N,N,N
+Reoviridae,Rotavirus,Rotavirus A ,1,dsRNA,4,faecal-oral,1,1,0,0,0,1,1,nonsevere,N,4,1,0,gastrointestinal,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,broad,0,1,1,1,N,N,N
+Reoviridae,Rotavirus,Rotavirus B ,1,dsRNA,4,faecal-oral,1,1,0,0,0,1,1,nonsevere,N,4,1,0,gastrointestinal,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,broad,0,0,1,0,N,N,N
+Reoviridae,Rotavirus,Rotavirus C ,1,dsRNA,4,faecal-oral,1,1,0,0,0,1,1,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,broad,0,0,1,0,N,N,N
+Reoviridae,Rotavirus,Rotavirus H,1,dsRNA,3,faecal-oral,1,1,0,0,0,0,1,nonsevere,N,6,0,0,gastrointestinal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Reoviridae,Seadornavirus,Banna virus ,1,dsRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,N
+Retroviridae,Deltaretrovirus,Primate T-lymphotropic virus 1 ,1,ssRNA-RT,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,circulatory,0,1,0,0,0,1,0,1,0,0,1,1,1,0,1,narrow,0,1,0,0,N,N,N
+Retroviridae,Deltaretrovirus,Primate T-lymphotropic virus 2 ,1,ssRNA-RT,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,circulatory,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,narrow,0,1,0,0,N,Y,N
+Retroviridae,Deltaretrovirus,Primate T-lymphotropic virus 3,0,ssRNA-RT,4,direct contact,1,0,0,0,0,1,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,0,1,0,0,N,Y,N
+Retroviridae,Lentivirus,Human immunodeficiency virus 1 ,1,ssRNA-RT,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Retroviridae,Lentivirus,Human immunodeficiency virus 2 ,1,ssRNA-RT,4,direct contact,1,0,0,0,0,1,0,severe,SA,1,1,1,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,1,0,0,0,N,Y,N
+Retroviridae,Lentivirus,Simian immunodeficiency virus,1,ssRNA-RT,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,0,1,0,0,N,N,N
+Retroviridae,Spumavirus,African green monkey simian foamy virus,1,ssRNA-RT,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,0,1,0,0,Y,N,N
+Retroviridae,Spumavirus,Macaque simian foamy virus,1,ssRNA-RT,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,0,1,0,0,Y,N,N
+Retroviridae,Spumavirus,Simian foamy virus,1,ssRNA-RT,2,direct contact,1,0,0,0,0,0,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,narrow,0,1,0,0,N,N,N
+Rhabdoviridae,Lyssavirus,Australian bat lyssavirus,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Rhabdoviridae,Lyssavirus,Duvenhage lyssavirus ,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Rhabdoviridae,Lyssavirus,European bat 1 lyssavirus,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Rhabdoviridae,Lyssavirus,European bat 2 lyssavirus,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Rhabdoviridae,Lyssavirus,Irkut lyssavirus,1,(-)ssRNA,2,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,N,N
+Rhabdoviridae,Lyssavirus,Mokola lyssavirus ,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,severe,SA,1,1,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,N
+Rhabdoviridae,Lyssavirus,Rabies lyssavirus,1,(-)ssRNA,3,direct contact,1,0,0,1,0,1,1,severe,SA,1,1,1,neural,1,0,1,1,0,0,1,1,1,0,1,0,1,0,1,broad,0,1,1,1,N,N,N
+Rhabdoviridae,Tibrovirus,Bas-Congo tibrovirus,1,(-)ssRNA,3,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,Y,N,N
+Rhabdoviridae,Tibrovirus,Ekpoma 1 tibrovirus ,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,N,Y,N
+Rhabdoviridae,Tibrovirus,Ekpoma 2 tibrovirus,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,N,Y,N
+Rhabdoviridae,Vesiculovirus,Alagoas vesiculovirus ,1,(-)ssRNA,2,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Rhabdoviridae,Vesiculovirus,Chandipura vesiculovirus ,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,4,1,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Rhabdoviridae,Vesiculovirus,Cocal vesiculovirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Rhabdoviridae,Vesiculovirus,Indiana vesiculovirus ,1,(-)ssRNA,2,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,broad,0,1,1,0,N,N,N
+Rhabdoviridae,Vesiculovirus,Isfahan vesiculovirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Rhabdoviridae,Vesiculovirus,Maraba vesiculovirus,1,(-)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,Y
+Rhabdoviridae,Vesiculovirus,New Jersey vesiculovirus ,1,(-)ssRNA,2,vector,1,0,0,0,1,0,1,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Rhabdoviridae,Vesiculovirus,Piry vesiculovirus ,1,(-)ssRNA,2,NA,NA,NA,NA,NA,NA,NA,NA,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,Y,Y,N
+Togaviridae,Alphavirus,Barmah Forest virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,N,N
+Togaviridae,Alphavirus,Chikungunya virus ,1,(+)ssRNA,4,vector,0,0,0,0,1,1,0,nonsevere,N,2,1,1,viraemic,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,broad,0,1,1,0,N,N,N
+Togaviridae,Alphavirus,Eastern equine encephalitis virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Everglades virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Togaviridae,Alphavirus,Getah virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Togaviridae,Alphavirus,Highlands J virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,Y
+Togaviridae,Alphavirus,Mayaro virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,1,N,N,N
+Togaviridae,Alphavirus,Mosso das Pedras virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Togaviridae,Alphavirus,Mucambo virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,N,N
+Togaviridae,Alphavirus,Ndumu virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Togaviridae,Alphavirus,O'nyong-nyong virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,broad,0,0,1,0,N,N,N
+Togaviridae,Alphavirus,Pixuna virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,Y,Y,N
+Togaviridae,Alphavirus,Rio Negro virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,0,N,Y,Y
+Togaviridae,Alphavirus,Ross River virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,1,0,nonsevere,N,6,0,0,circulatory,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Semliki Forest virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,1,1,0,Y,Y,N
+Togaviridae,Alphavirus,Sindbis virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Tonate virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,4,1,0,viraemic,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Una virus,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,1,1,0,N,Y,Y
+Togaviridae,Alphavirus,Venezuelan equine encephalitis virus ,1,(+)ssRNA,3,vector,0,0,0,0,1,1,0,nonsevere,Y,3,1,1,neural,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Western equine encephalitis virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,1,0,severe,SA,1,1,1,neural,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,broad,0,0,1,1,N,N,N
+Togaviridae,Alphavirus,Whataroa virus ,1,(+)ssRNA,2,vector,0,0,0,0,1,0,0,nonsevere,N,6,0,0,viraemic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,broad,0,0,1,1,Y,Y,Y
+Togaviridae,Rubivirus,Rubella virus ,1,(+)ssRNA,4,respiratory,0,0,0,1,0,1,0,nonsevere,N,2,1,1,viraemic,1,0,0,0,0,1,1,1,0,1,1,1,0,1,1,narrow,1,0,0,0,N,N,N
+Unassigned,Deltavirus,Hepatitis delta virus ,0,(-)ssRNA,4,direct contact,1,0,0,0,0,0,0,severe,SA,1,1,1,hepatic,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,narrow,1,0,0,0,N,N,N
