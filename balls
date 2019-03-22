@@ -1,0 +1,12 @@
+
+# Tissue Tropism ####
+
+library(tidyverse); library(ggregplot)
+
+BrierleyVirulence <- read.csv("data/BrierleyVirulence.csv", header = T)
+
+BrierleyRNA <- read_csv("data/BrierleyRNA.csv")
+
+Brie <- BrierleyRNA %>% full_join(BrierleyVirulence, by = "Species") %>% as.data.frame()
+
+ggMMplot(Brie, "Sexual", "Tp.reproductive")
