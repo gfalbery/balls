@@ -1,12 +1,66 @@
 
 # Tissue Tropism ####
 
+# Importing original dataset ####
+
 library(tidyverse); library(ggregplot)
+
+rm(list = ls())
+
+# Downloading Brierley et al. (2018) data: https://datashare.is.ed.ac.uk/handle/10283/2970
+BrierleyRNA <- read.csv("BrierleyRNA.csv", header = T)
+
+BrierleyRNA$Species <- str_replace_all(BrierleyRNA$Species, " ", "_")
+
+RemoveUnderscores <- substr(BrierleyRNA$Species,nchar(BrierleyRNA$Species),nchar(BrierleyRNA$Species)) == "_"
+
+BrierleyRNA$Species[RemoveUnderscores] <- 
+  substr(BrierleyRNA$Species[RemoveUnderscores], 1, nchar(BrierleyRNA$Species[RemoveUnderscores])-1)
+
+BrierleyRNA <- BrierleyRNA[order(BrierleyRNA$Species),]
+
+#write.csv(setdiff(RNAViruses$Sp, BrierleyRNA$Species), file = "data/RNANames.csv")
+#write.csv(setdiff(BrierleyRNA$Species, RNAViruses$Sp), file = "data/BrierleyNames.csv")
+
+# By hand, go through to identify synonyms then import set of synonymous pairs of names
+# Could probably do something with ICTV lists 
+# Liam doesn't have any datasets/lists of synonyms that could help
+
+RNASynonyms <- read.csv("data/RNASynonyms.csv", header = T)
+
+BrierleyRNA$Sp <- sapply(BrierleyRNA$Species, function(a) ifelse(as.character(a)%in%as.character(RNASynonyms$BrierleyName), 
+                                                                 as.character(RNASynonyms[as.character(RNASynonyms$BrierleyName)==a, "HP3Name"]),
+                                                                 as.character(a)))
+
+# Joining with virulence dataset ####
+
+BrierleyRNA <- BrierleyRNA %>% rename("Iatrogenic" = "Iatrogenic..inc..blood.")
+
+RNAcovar <- c("Vector", "Inhalation", "Ingestion", "Sexual", "Iatrogenic",
+              "Fomites", "Broken.Skin", "Maternal", "Direct.Contact",
+              "Person.to.person", "Host.range", "Human.only")
+
+for(x in RNAcovar[-which(RNAcovar=="Host.range")]){
+  BrierleyRNA[BrierleyRNA[,x]=="1*",x] <- 1
+  BrierleyRNA[BrierleyRNA[,x]=="?",x] <- 0
+  BrierleyRNA[,x] <- as.numeric(BrierleyRNA[,x])-min(as.numeric(BrierleyRNA[,x]))
+}
 
 BrierleyVirulence <- read.csv("BrierleyVirulence.csv", header = T)
 
-BrierleyRNA <- read_csv("BrierleyRNA.csv")
+BrierleyVirulence$Species <- str_replace_all(BrierleyVirulence$Species, " ", "_")
+
+RemoveUnderscoresAGAIN <- substr(BrierleyVirulence$Species,nchar(BrierleyVirulence$Species),nchar(BrierleyVirulence$Species)) == "_"
+
+BrierleyVirulence$Species[RemoveUnderscoresAGAIN] <- 
+  substr(BrierleyVirulence$Species[RemoveUnderscoresAGAIN], 1, nchar(BrierleyVirulence$Species[RemoveUnderscoresAGAIN])-1)
 
 Brie <- BrierleyRNA %>% full_join(BrierleyVirulence, by = "Species") %>% as.data.frame()
 
-ggMMplot(Brie, "Sexual", "Tp.reproductive")
+# Doing some data parsing ####
+
+SuspectSexuals <- c("Hepatitis_B_virus", # lol Hep B isn't in this
+                    "Human_papillomavirus", # lol HPV neither
+                    "Herpes_simplex_virus") # Herpes is a DNA virus I think
+
+Brie %>% filter(Species %in% SuspectSexuals)
